@@ -7,6 +7,7 @@
 - 📫 How to reach me abdallahsalh2@hmail.com
 - ### Programming Languages
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python  - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++ - <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C# - <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQ  - <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C#  - <img src="https://cdn-icons-png.flaticon.com/512/5410/5410149.png" width="48" height="48"/> Prolog - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
+
 <h1 align="center">Hi 👋, I'm Abdallah Saleh Sayed</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
@@ -15,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdallah-saleh-993b381b6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdallah-saleh-993b381b6/" height="30" width="40" /></a>
+<a href="https://discord.gg/9674" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9674" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,8 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdallah-saleh-993b381b6&show_icons=true&locale=en" alt="abdallah-saleh-993b381b6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdallah-saleh-993b381b6&" alt="abdallah-saleh-993b381b6" /></p>
-
-
 
 <!---
 Abdallahsa/Abdallahsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
