@@ -1,4 +1,4 @@
-<imagesrc="https://github.com/halfrost/halfrost/raw/master/icons/header_1.png">
+![My Image](https://github.com/halfrost/halfrost/raw/master/icons/header_1.png)
 - 👋 Hi, I’m @Abdallahsa
 - 👀 I’m interested in software engnering
 - 🌱 I’m currently learning software
