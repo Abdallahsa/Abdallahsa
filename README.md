@@ -7,7 +7,6 @@
 - 📫 How to reach me abdallahsalh2@hmail.com
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 - ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![Java](https://img.icons8.com/color/48/000000/java.png) Java
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
 
 <!---
