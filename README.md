@@ -1,12 +1,11 @@
 ![My Image](https://github.com/halfrost/halfrost/raw/master/icons/header_1.png)
+![Python](<i class="fab fa-python"></i>)
+
 - 👋 Hi, I’m @Abdallahsa
 - 👀 I’m interested in software engnering
 - 🌱 I’m currently learning software
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me abdallahsalh2@hmail.com
-![JavaScript](<i class="fab fa-js"></i>)
-![Java](<i class="fab fa-java"></i>)
-![C++](<i class="fab fa-cpp"></i>)
 
 
 <!---
