@@ -11,7 +11,7 @@
 - ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
 - <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> C#
 - <img src="https://img.icons8.com/color/48/000000/sql.png"/> SQL
-- Prolog: &#80;&#114;&#111;&#108;&#111;&#103;
+- <img src="https://cdn-icons-png.flaticon.com/512/5410/5410149.png" width="48" height="48"/> Prolog
 - <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> Java
 
 
