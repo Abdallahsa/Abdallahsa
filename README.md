@@ -1,14 +1,6 @@
 ![My Image](https://github.com/halfrost/halfrost/raw/master/icons/header_1.png)
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    
-</head>
-<body>
-   ![Python](<i class="fab fa-python"></i>)
-</body>
-</html>
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+
 
 - 👋 Hi, I’m @Abdallahsa
 - 👀 I’m interested in software engnering
