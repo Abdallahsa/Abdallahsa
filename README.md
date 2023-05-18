@@ -1,5 +1,3 @@
-![Uploading header_1.png…]()
-
 
 - 👋 Hi, I’m @Abdallahsa
 - 👀 I’m interested in software engnering
