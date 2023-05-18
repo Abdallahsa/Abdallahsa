@@ -1,5 +1,14 @@
 ![My Image](https://github.com/halfrost/halfrost/raw/master/icons/header_1.png)
-![Python](<i class="fab fa-python"></i>)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    
+</head>
+<body>
+   ![Python](<i class="fab fa-python"></i>)
+</body>
+</html>
 
 - 👋 Hi, I’m @Abdallahsa
 - 👀 I’m interested in software engnering
